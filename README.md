@@ -20,9 +20,9 @@
 
 ### 🛠️ Languages & Tools
 
-HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL
-Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel
-React • React Native • Next.js • Redux • TailwindCSS
+HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL  
+Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel  
+React • React Native • Next.js • Redux • TailwindCSS  
 Material UI • Framer Motion • Agile • Bootstrap
 
 ---
@@ -33,24 +33,28 @@ Material UI • Framer Motion • Agile • Bootstrap
 - Responsive Design & Performance Optimization  
 - MVC Architecture, OOP Concepts, Agile Development  
 - Strong communication & client collaboration  
-- Pixel-perfect attention to UI/UX detail
-- Familiarity with Design Tools: Figma, Adobe XD, Canva, Photoshop, Illustrator. 
+- Pixel-perfect attention to UI/UX detail  
+- Familiarity with Design Tools: Figma, Adobe XD, Canva, Photoshop, Illustrator  
 
 ---
 
 ### ⚙️ Tech Stack Icons
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,php,mysql,react,nextjs,redux,tailwind,bootstrap,d3,kotlin,git,github,bash,webpack,babel,npm,vercel,vite,yarn,figma,postman," />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,php,mysql,react,nextjs,redux,tailwind,bootstrap,d3,kotlin,git,github,bash,webpack,babel,npm,vercel,vite,yarn,vscode,figma,postman" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=puskarkoley&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=puskarkoley&theme=tokyonight" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskarkoley&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -60,3 +64,20 @@ Material UI • Framer Motion • Agile • Bootstrap
 - ✉️ Email: koleypuskar@gmail.com
 
 ---
+
+### 📲 Follow Me on Social Media
+
+<p align="left">
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
