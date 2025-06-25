@@ -55,19 +55,9 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 📫 Contact Me
 
-<p align="left">
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/microsoft-teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
-  </a>
-  
-  <a href="mailto:koleypuskar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/koleypuskar@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="tel:+919732132016" target="_blank">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=call&logoColor=white" />
-  </a>
-</p>
+- 📧 Email: [koleypuskar@gmail.com](mailto:koleypuskar@gmail.com)  
+- 📞 Phone: [+91 9732132016](tel:+919732132016)  
+- 💬 Microsoft Teams: [Chat with me](https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com)
 
 ---
 
@@ -75,7 +65,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
   <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" />
   </a>
 
   <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
@@ -91,5 +81,5 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
   </a>
 </p>
 
-
 ---
+
