@@ -48,11 +48,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&hide=stars,issues&theme=radical" height='170em' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight&exclude_repo=some-old-repo,school-project" height='170em' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight" height='170em' />
-  <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" height='170em' />
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=9&margin-w=15&margin-h=15" />
-
 
 ---
 
@@ -66,6 +63,9 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 ### 📲 Follow Me on Social Media
 
 <p align="left">
+  <a href="https://www.instagram.com/amipuskar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=email" />
+  </a>
   <a href="https://www.instagram.com/amipuskar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
