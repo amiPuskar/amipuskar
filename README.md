@@ -64,7 +64,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
   <a href="https://www.instagram.com/amipuskar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=email" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/amipuskar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
