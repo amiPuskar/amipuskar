@@ -50,10 +50,6 @@ Material UI • Framer Motion • Agile • Bootstrap
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puskarkoley&theme=tokyonight" width="48%" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
