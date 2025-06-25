@@ -62,14 +62,9 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 📲 Follow Me on Social Media
 
-<h3>📲 Follow Me / Connect</h3>
-
 <p align="left">
-  <a href="mailto:koleypuskar@gmail.com" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  
-  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
+
+  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:50px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   
