@@ -23,7 +23,7 @@
 HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL
 Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel
 React • React Native • Next.js • Redux • TailwindCSS
-Figma • Adobe XD • Canva • Photoshop • Illustrator
+Material UI • Framer Motion • Agile • Bootstrap
 
 ---
 
@@ -34,13 +34,14 @@ Figma • Adobe XD • Canva • Photoshop • Illustrator
 - MVC Architecture, OOP Concepts, Agile Development  
 - Strong communication & client collaboration  
 - Pixel-perfect attention to UI/UX detail
+- Familiarity with Design Tools: Figma, Adobe XD, Canva, Photoshop, Illustrator. 
 
 ---
 
 ### ⚙️ Tech Stack Icons
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,react,nextjs,redux,tailwind,git,github,webpack,babel,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,react,nextjs,redux,tailwind,git,github,webpack,babel,figma,Jira,illustrator" />
 </p>
 
 ---
