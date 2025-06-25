@@ -20,10 +20,7 @@
 
 ### 🛠️ Languages & Tools
 
-HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL  
-Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel  
-React • React Native • Next.js • Redux • TailwindCSS  
-Material UI • Framer Motion • Agile • Bootstrap
+HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel • React • React Native • Next.js • Redux • TailwindCSS • Material UI • Framer Motion • Agile • Bootstrap
 
 ---
 
