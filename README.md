@@ -47,7 +47,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&hide=stars,issues&theme=radical" height='170em' /> -->
-    <img src="[https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&hide=stars,issues&theme=radical](https://github-readme-stats-eight-theta.vercel.app/api?username=harishpalsande9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)" height='170em' />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harishpalsande9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height='170em' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight&exclude_repo=some-old-repo,school-project" height='170em' />
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=9&margin-w=15&margin-h=15" />
