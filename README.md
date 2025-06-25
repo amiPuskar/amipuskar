@@ -62,20 +62,34 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 📲 Follow Me on Social Media
 
+<h3>📲 Follow Me / Connect</h3>
+
 <p align="left">
-  <a href="https://www.instagram.com/amipuskar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:koleypuskar@gmail.com" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/amipuskar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  
+  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/amipuskar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  
+  <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/amipuskar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  
+  <a href="https://twitter.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=koleypuskar@gmail.com" target="_blank" style="margin-right:15px;">
+    <img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Microsoft Teams" width="30" />
+  </a>
+  
+  <a href="https://facebook.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30" />
   </a>
 </p>
+
 
 ---
 
