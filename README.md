@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj (Puskar Koley)</h1>
+**<h1 align="center">Hi 👋, I'm Raj (Puskar Koley)</h1>
 <h3 align="center">Frontend Developer | React.js • React Native • Next.js</h3>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-
+**
 HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL
 Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel
 React • React Native • Next.js • Redux • TailwindCSS
