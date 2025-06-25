@@ -47,9 +47,9 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=puskarkoley&show_icons=true&hide=stars,issues&theme=radical" width="48%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight&exclude_repo=some-old-repo,school-project" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight&exclude_repo=some-old-repo,school-project" height='170em' />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight" width="48%" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" height='170em' />
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=9&margin-w=15&margin-h=15" />
 
