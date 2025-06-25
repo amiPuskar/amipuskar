@@ -56,7 +56,10 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 ### 📫 Contact Me
 
 - ✉️ Email: koleypuskar@gmail.com
-- 📞 Phone: +91 9732132016
+<!-- - 📞 Phone: +91 9732132016 -->
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com" target="_blank" style="margin-right:15px;">
+    <img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Microsoft Teams" width="30" />
+  </a>
 
 ---
 
@@ -73,10 +76,6 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
   
   <a href="https://twitter.com/amipuskar" target="_blank" style="margin-right:15px;">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" />
-  </a>
-  
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=koleypuskar@gmail.com" target="_blank" style="margin-right:15px;">
-    <img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Microsoft Teams" width="30" />
   </a>
   
   <a href="https://facebook.com/amipuskar" target="_blank" style="margin-right:15px;">
