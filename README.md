@@ -8,8 +8,14 @@
 🎨 Skilled in interactive animations, beautiful UI, and data visualization  
 📈 Achieved a 25% improvement in page load speed and a 30% increase in user engagement  
 👥 Led a team of 5 developers, ensuring timely delivery and code quality  
-🎓 Master of Computer Application (MCA) | MAKAUT, 2020  
+
 🌍 Open to remote & freelance opportunities  
+
+
+---
+### 🛠️ Last education
+
+🎓 Master of Computer Application (MCA) | MAKAUT, 2020  
 
 ---
 
