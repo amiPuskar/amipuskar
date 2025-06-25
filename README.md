@@ -64,8 +64,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
 
-  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" />
+  <a href="https://www.instagram.com/amipuskar" target="_blank"  style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" marginRight='10px' />
   </a>
   
   <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
