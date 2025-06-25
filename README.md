@@ -66,20 +66,14 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 ### 📲 Follow Me on Social Media
 
 <p align="left">
-  <a href="https://www.instagram.com/amipuskar" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30"/>
+    <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://twitter.com/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" />
-  </a>
-  
-  <a href="https://facebook.com/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30" />
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
