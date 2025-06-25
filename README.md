@@ -1,4 +1,4 @@
-**<h1 align="center">Hi 👋, I'm Raj (Puskar Koley)</h1>
+<h1 align="center">Hi 👋, I'm Raj (Puskar Koley)</h1>
 <h3 align="center">Frontend Developer | React.js • React Native • Next.js</h3>
 
 ---
@@ -8,19 +8,22 @@
 🎨 Skilled in interactive animations, beautiful UI, and data visualization  
 📈 Achieved a 25% improvement in page load speed and a 30% increase in user engagement  
 👥 Led a team of 5 developers, ensuring timely delivery and code quality  
-
-🌍 Open to remote & freelance opportunities  
-
-
----
-### 🛠️ Last education
-
 🎓 Master of Computer Application (MCA) | MAKAUT, 2020  
 
 ---
 
+### 📚 Education
+
+- 🎓 **Master of Computer Application (MCA)** — MAKAUT, 2020  
+- 🎓 **Bachelor of Computer Application (BCA)** — 2017  
+- 🎓 **Higher Secondary (HS)** — 2014  
+- 🎓 **Madhyamik (10th)** — 2012
+
+---
+
 ### 🛠️ Languages & Tools
-**
+
+
 HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL
 Git • GitHub • GitLab • NPM • Yarn • Webpack • Babel
 React • React Native • Next.js • Redux • TailwindCSS
