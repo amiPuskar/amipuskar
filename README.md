@@ -50,8 +50,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" width="48%" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="100%" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskarkoley&layout=compact&theme=radical" width="48%" />
 ---
 
 ### 📫 Contact Me
