@@ -57,15 +57,15 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
   <a href="https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+    <img src="https://img.shields.io/badge/microsoft-teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
   </a>
   
   <a href="mailto:koleypuskar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/koleypuskar@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="tel:+919732132016" target="_blank">
-    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=call&logoColor=white" />
   </a>
 </p>
 
