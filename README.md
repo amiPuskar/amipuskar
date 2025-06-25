@@ -67,13 +67,13 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/amipuskar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/amipuskar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/amipuskar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
