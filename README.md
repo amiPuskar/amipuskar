@@ -7,14 +7,14 @@
 📱 Expert in responsive, high-performance web and mobile apps  
 🎨 Skilled in interactive animations, beautiful UI, and data visualization  
 📈 Achieved a 25% improvement in page load speed and a 30% increase in user engagement  
-👥 Led a team of 5 developers, ensuring timely delivery and code quality  
+👥 Led a team of 5 developers, ensuring timely delivery and code quality
 
 ---
 
 ### 📚 Education
 
-- 🎓 **Master of Computer Application (MCA)** — MAKAUT, 2020  
-- 🎓 **Bachelor of Computer Application (BCA)** — 2017  
+- 🎓 **Master of Computer Application (MCA)** — MAKAUT, 2020
+- 🎓 **Bachelor of Computer Application (BCA)** — 2017
 
 ---
 
@@ -26,12 +26,12 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 🎨 Skills & Methodologies
 
-- UI Styling, Animation & Charts  
-- Responsive Design & Performance Optimization  
-- MVC Architecture, OOP Concepts, Agile Development  
-- Strong communication & client collaboration  
-- Pixel-perfect attention to UI/UX detail  
-- Familiarity with Design Tools: Figma, Adobe XD, Canva, Photoshop, Illustrator  
+- UI Styling, Animation & Charts
+- Responsive Design & Performance Optimization
+- MVC Architecture, OOP Concepts, Agile Development
+- Strong communication & client collaboration
+- Pixel-perfect attention to UI/UX detail
+- Familiarity with Design Tools: Figma, Adobe XD, Canva, Photoshop, Illustrator
 
 ---
 
@@ -55,17 +55,16 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 📫 Contact Me
 
-- ✉️ Email: koleypuskar@gmail.com  
-- 📞 Phone: +91 9732132016  
+- ✉️ Email: koleypuskar@gmail.com
+- 📞 Phone: +91 9732132016
 
 ---
 
 ### 📲 Follow Me on Social Media
 
 <p align="left">
-
-  <a href="https://www.instagram.com/amipuskar" target="_blank"  style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" marginRight='10px' />
+  <a href="https://www.instagram.com/amipuskar" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30"/>
   </a>
   
   <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
@@ -85,6 +84,4 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
   </a>
 </p>
 
-
 ---
-
