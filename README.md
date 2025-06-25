@@ -56,8 +56,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 📫 Contact Me
 
-- 📧 Email: [koleypuskar@gmail.com](mailto:koleypuskar@gmail.com)  
-- 📞 Phone: [+91 9732132016](tel:+919732132016)  
+- 📧 Email: [koleypuskar@gmail.com](mailto:koleypuskar@gmail.com)
+<!-- - 📞 Phone: [+91 9732132016](tel:+919732132016) -->
 - 💬 Microsoft Teams: [Chat with me](https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com)
 
 ---
@@ -83,4 +83,3 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 </p>
 
 ---
-
