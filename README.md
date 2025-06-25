@@ -41,7 +41,7 @@ Material UI • Framer Motion • Agile • Bootstrap
 ### ⚙️ Tech Stack Icons
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,react,nextjs,redux,tailwind,git,github,webpack,babel,figma,Jira,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,php,mysql,react,nextjs,redux,tailwind,git,github,webpack,babel,figma,Agile,illustrator" />
 </p>
 
 ---
