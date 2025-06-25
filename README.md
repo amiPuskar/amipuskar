@@ -64,19 +64,19 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 ### 📲 Follow Me on Social Media
 
 <p align="left">
-  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
+  <a href="https://www.instagram.com/amipuskar" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" />
   </a>
 
-  <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
+  <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>
 
-  <a href="https://twitter.com/amipuskar" target="_blank" style="margin-right:15px;">
+  <a href="https://twitter.com/amipuskar" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" />
   </a>
 
-  <a href="https://facebook.com/amipuskar" target="_blank" style="margin-right:15px;">
+  <a href="https://facebook.com/amipuskar" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30" />
   </a>
 </p>
