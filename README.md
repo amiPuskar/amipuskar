@@ -55,26 +55,41 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 ### 📫 Contact Me
 
-- ✉️ Email: koleypuskar@gmail.com
-<!-- - 📞 Phone: +91 9732132016 -->
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com" target="_blank" style="margin-right:15px;">
-    <img src="https://img.icons8.com/color/48/microsoft-teams.png" alt="Microsoft Teams" width="30" />
+<p align="left">
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=puskarkoley@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
   </a>
+  
+  <a href="mailto:koleypuskar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="tel:+919732132016" target="_blank">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 📲 Follow Me on Social Media
 
 <p align="left">
-    <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+
+  <a href="https://twitter.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" />
+  </a>
+
+  <a href="https://facebook.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="30" />
   </a>
 </p>
+
 
 ---
