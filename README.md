@@ -46,34 +46,11 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 ### 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=puskarkoley&show_icons=true&hide=stars,issues&theme=radical" width="48%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" width="48%" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=3&margin-w=15&margin-h=15" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amipuskar&theme=tokyo-night" />
-<img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=puskarkoley&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskarkoley&layout=compact&theme=radical&exclude_repo=some-old-repo,school-project" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=puskarkoley&theme=tokyonight" />
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=puskarkoley&theme=react-dark" />
-
-### 📊 GitHub Highlights
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=puskarkoley&show_icons=true&hide=stars,issues&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=puskarkoley&theme=radical" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=puskarkoley&theme=react-dark" />
-</p>
-
-
-![Anurag's GitHub stats]()
+<img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="100%" />
 
 ---
 
