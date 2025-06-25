@@ -49,32 +49,33 @@ Material UI • Framer Motion • Agile • Bootstrap
 ### 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=puskarkoley&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=puskarkoley&theme=tokyonight" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puskarkoley&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amipuskar&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- ✉️ Email: koleypuskar@gmail.com
+- ✉️ Email: koleypuskar@gmail.com  
+- 📞 Phone: +91 9732132016  
 
 ---
 
 ### 📲 Follow Me on Social Media
 
 <p align="left">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/amipuskar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/amipuskar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/amipuskar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
