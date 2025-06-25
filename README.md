@@ -51,8 +51,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=amipuskar&theme=tokyonight&column=3&margin-w=15&margin-h=15" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amipuskar&theme=tokyo-night" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amipuskar&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=amipuskar&show_icons=true&theme=radical" />
+![Anurag's GitHub stats]()
 
 ---
 
