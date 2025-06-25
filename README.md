@@ -64,16 +64,16 @@ HTML • CSS • SCSS • JavaScript • TypeScript • PHP • SQL • Git • 
 
 <p align="left">
 
-  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:50px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://www.instagram.com/amipuskar" target="_blank" style="margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30" />
   </a>
   
   <a href="https://www.linkedin.com/in/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" />
   </a>
   
   <a href="https://twitter.com/amipuskar" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" />
   </a>
   
   <a href="https://teams.microsoft.com/l/chat/0/0?users=koleypuskar@gmail.com" target="_blank" style="margin-right:15px;">
