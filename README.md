@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Puskar Koley (Raj)</h1>
+<h1 align="center">Hi 👋, I'm Puskar Koley</h1>
 <h3 align="center">Frontend Developer | React.js • React Native • Next.js</h3>
 
 ---
